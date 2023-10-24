@@ -7,3 +7,5 @@ if(dars1+dars2+dars3)/3 >= 17 :
     print("Greate !")
 elif (dars1+dars2+dars3)/3 <= 17 and (dars1+dars2+dars3)/3 >= 12 :
     print("Normal !")
+    elif (dars1+dars2+dars3)/3 < 12 :
+    print("ّFail !")
